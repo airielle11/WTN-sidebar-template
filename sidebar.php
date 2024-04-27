@@ -8,17 +8,14 @@
     <link rel="stylesheet" href="https://cdn.lineicons.com/4.0/lineicons.css" />
 
     <!-- Bootstrap CSS -->
-    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet"
-        integrity="sha384-QWTKZyjpPEjISv5WaRU9OFeRpok6YctnYmDr5pNlyT2bRjXh0JMhjY6hW+ALEwIH" crossorigin="anonymous">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-QWTKZyjpPEjISv5WaRU9OFeRpok6YctnYmDr5pNlyT2bRjXh0JMhjY6hW+ALEwIH" crossorigin="anonymous">
 
     <!-- External CSS -->
     <link rel="stylesheet" href="style.css">
     <!-- Google fonts -->
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link
-        href="https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap"
-        rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap" rel="stylesheet">
 </head>
 
 <body>
@@ -26,9 +23,7 @@
         <div class="body-overlay"></div>
         <div class="sidebar">
             <div class="logo">
-                <h3 class="ms-3 mt-4 mb-4"><img src="logo.png" class="img-fluid ms-2" /><a><span class="ms-2"
-                            style="letter-spacing:0.05em; font-size: 20px; color: #5B5C70; font-weight: 600;">WhereTo</span><span
-                            style="letter-spacing:0.05em;font-size: 20px; color: #299FF5; font-weight: 600;">Med</span></a>
+                <h3 class="ms-3 mt-4 mb-4"><img src="logo.png" class="img-fluid ms-2" /><a><span class="ms-2" style="letter-spacing:0.05em; font-size: 20px; color: #5B5C70; font-weight: 600;">WhereTo</span><span style="letter-spacing:0.05em;font-size: 20px; color: #299FF5; font-weight: 600;">Med</span></a>
                 </h3>
             </div>
             <ul class="list-unstyled component m-0">
@@ -49,8 +44,7 @@
                     <a href="#" class="nav-link text-dark rounded" style="height: 50px;">
                         <i class="lni lni-alarm mt-2" style="margin-left: 4px;"></i>
                         <span class="nav-item-title ms-2">Notifications</span>
-                        <div class="notification-status container-fluid rounded-3 bg-danger align-items-center d-flex"
-                            style="width: 40px; height: 30px; margin-top: -26px; margin-left: 200px;">
+                        <div class="notification-status container-fluid rounded-3 bg-danger align-items-center d-flex" style="width: 40px; height: 30px; margin-top: -26px; margin-left: 200px;">
                             <span class="text-white text-center">10</span>
                         </div>
                     </a>
@@ -93,9 +87,7 @@
 
     <script src="script.js"></script>
     <!-- Bootstrap JS -->
-    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"
-        integrity="sha384-YvpcrYf0tY3lHB60NNkmXc5s9fDVZLESaAA55NDzOxhy9GkcIdslK1eN7N6jIeHz"
-        crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-YvpcrYf0tY3lHB60NNkmXc5s9fDVZLESaAA55NDzOxhy9GkcIdslK1eN7N6jIeHz" crossorigin="anonymous"></script>
 </body>
 
 </html>
