@@ -56,7 +56,7 @@
                     </a>
                 </li>
                 <div class="bottom-items">
-                    <hr>
+                    <div style="margin-left: 15px;"><hr></div>
                     <span class="nav-item-title mt-2 fs-6 px-4" style="color: #64748B;">Profile</span>
                     <div class="d-flex mt-3">
                         <img src="profile.svg" class="img-fluid rounded ms-3" width="50px" alt="">
